@@ -6,10 +6,10 @@ int main() {
     scanf("%d", &n);
     if(n >= 3000){
         printf("book");
-    } else if(1000<= n < 3000){
+    } else if(1000 <= n < 3000){
         printf("mask");
     } else {
-        printf("0");
+        printf("no");
     }
     return 0;
 }
