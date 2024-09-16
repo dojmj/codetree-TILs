@@ -9,7 +9,7 @@ int main() {
     } else if(n >=1000){
         printf("mask");
     } else {
-        printf(0);
+        printf("0");
     }
     return 0;
 }
