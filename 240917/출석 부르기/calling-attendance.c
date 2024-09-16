@@ -10,6 +10,8 @@ int main() {
         printf("Tom");
     } else if(a == 3) {
         printf("Paul");
+    } else {
+        printf("Vacancy");
     }
     return 0;
 }
